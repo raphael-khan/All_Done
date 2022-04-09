@@ -11,11 +11,11 @@ body {
 }
 
 .container {
-  max-width: 500px;
+  max-width: 600px;
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  border: 2px solid cadetblue;
   padding: 30px;
   border-radius: 5px;
 }
@@ -62,7 +62,7 @@ body {
 }
 
 .task.reminder {
-  border-left: 5px solid green;
+  border-left: 10px solid yellowgreen;
 }
 
 .task h3 {
@@ -109,4 +109,8 @@ body {
 footer {
   margin-top: 30px;
   text-align: center;
+}
+p {
+  font-style: italic;
+  font-weight: lighter;
 }
