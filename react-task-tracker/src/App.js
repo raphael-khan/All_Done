@@ -8,7 +8,7 @@ const App = () => {
     {
         id:1,
         text:'Dental Appointment',
-        day: 'April 22nd at 4;15pm',
+        day: 'April 22nd at 4:15pm',
         reminder: true,
     },
     {
