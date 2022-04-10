@@ -6,8 +6,8 @@ const Header = ({title}) => {
     }
     return (
         <div className='header'>
-            <h1>{title}</h1>
-            <Button color='orange' text='Add Task' onClick={onClick}/>
+            <h1 style={{color:'coral'}}>{title}</h1>
+            <Button color='orange' text='Buy $1.00' onClick={onClick}/>
         </div>
     )
 }
@@ -15,7 +15,7 @@ const Header = ({title}) => {
 export default Header
 
 Header.defaultProps = {
-    title: 'ALL DONE - Task Tracker'
+    title: 'All Done - The Ultimate Task Tracker'
 }
 
 Header.prototype = {

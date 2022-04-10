@@ -114,3 +114,7 @@ p {
   font-style: italic;
   font-weight: lighter;
 }
+img {
+  width: 32px;
+  height: 32px;
+}

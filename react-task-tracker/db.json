@@ -1,16 +1,22 @@
 {
   "tasks": [
     {
-      "text": "Pick up groceries. ",
-      "day": "4th April 2022",
-      "reminder": true,
-      "id": 1
-    },
-    {
       "text": "Meet Jim for workout",
       "day": "5th May 2022 11:00am ",
       "reminder": true,
       "id": 2
+    },
+    {
+      "text": "Order Groceries",
+      "day": "11th April 2022 11:00 am ",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Finish Annual Project",
+      "day": "23rd June 2022 5:00pm",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
