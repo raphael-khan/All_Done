@@ -1,10 +1,16 @@
 {
   "tasks": [
     {
-      "text": "Go to the cookout ",
-      "day": "4th April 2022 6:00pm ",
+      "text": "Pick up groceries. ",
+      "day": "4th April 2022",
       "reminder": true,
       "id": 1
+    },
+    {
+      "text": "Meet Jim for workout",
+      "day": "5th May 2022 11:00am ",
+      "reminder": true,
+      "id": 2
     }
   ]
 }
