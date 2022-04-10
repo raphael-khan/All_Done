@@ -3,6 +3,7 @@ import Header from './components/Header'
 import Tasks from './components/Tasks'
 import AddTask from './components/AddTask'
 import { useState, useEffect } from 'react'
+import Footer from './components/Footer'
 
 
 const App = () => {
@@ -87,6 +88,7 @@ const toggleReminder = async (id) => {
           <p className='task'>Great Work. You're ALL DONE !'</p>
           )
         }
+        <Footer />
     </div>
   )
 }
