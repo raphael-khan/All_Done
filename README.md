@@ -7,3 +7,8 @@ Functionalties include:
   * Creating a task with fields and saving it in the datebase. 
   * Toggling reminder option. 
   * Deleting the task. 
+
+Tech Stack:
+  * reactJS
+  * json server and database API
+ 
