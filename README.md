@@ -1,4 +1,4 @@
-# ALL DONE - Task_Tracker. 
+# ALL DONE - Task Tracker. 
 
 A single page application(SPA) with full CRUD functionality made with React JS and Json server to handle the backend database.
 CSS styling. 
