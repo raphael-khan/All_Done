@@ -4,11 +4,11 @@ A single page application(SPA) with full CRUD functionality made with React JS a
 CSS styling. 
 
 Functionalties include:
-  * Creating a task with fields and saving it in the datebase. 
-  * Toggling reminder option. 
+  * Creating a task with fields and saving it in the database. 
+  * Toggling reminder option, updating the state and redndering on the screen. 
   * Deleting the task. 
 
 Tech Stack:
   * reactJS
-  * json server and database API
+  * Json server for the backend routes. 
  
