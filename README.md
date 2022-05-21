@@ -3,6 +3,9 @@
 A single page application(SPA) with full CRUD functionality made with React JS and Json server to handle the backend database.
 CSS styling. 
 
+![image](https://user-images.githubusercontent.com/89990638/169630490-f1b07295-d9b9-4f44-8497-41ef65e8500c.png)
+
+
 Functionalties include:
   * Creating a task with fields and saving it in the database. 
   * Toggling reminder option, updating the state and redndering on the screen. 
