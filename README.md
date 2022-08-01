@@ -1,6 +1,6 @@
 # ALL DONE - Task Tracker. 
 
-A single page application(SPA) with full CRUD functionality made with React js and Json server. 
+A single page application(SPA) with full CRUD functionality made with React js and Json Server. 
 
 Functionalties include:
   * Creating a task with fields and saving it in the database. 
