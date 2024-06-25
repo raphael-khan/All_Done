@@ -11,7 +11,6 @@ Tech Stack:
   * React js. 
   * CSS & Material UI. 
   * Json server for the backend routes.
-  
 
 ![image](https://user-images.githubusercontent.com/89990638/169630490-f1b07295-d9b9-4f44-8497-41ef65e8500c.png)
 
